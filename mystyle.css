@@ -1,0 +1,141 @@
+#ca1{
+    left:50px; top:300px;
+    position: absolute;
+    animation-name: Ca1;
+    animation-duration: 10s;
+    animation-timing-function: linear;
+    animation-iteration-count: ifinite;
+    animation-play-state: running;
+}
+
+@keyframes Ca1{
+    0% {left:50px; top:300px;}
+    20% {left:300px; top:350px;}
+    40% {left:500px; top:300px;}
+    50% {left:600px; top:50px;}
+    60% {left:600px; top:100px;}
+    80% {left:500px; top:200px;}
+    100% {left:100px; top:250px; transform:scaleX(-1);}
+}
+#ca2{
+    left:50px; top:200px;
+    position: absolute;
+    animation-name: Ca2;
+    animation-duration: 10s;
+    animation-timing-function: linear;
+    animation-iteration-count: ifinite;
+    animation-play-state: running;
+}
+@keyframes Ca2{
+    0% {left:50px; top:200px;}
+    20% {left:250px; top:190px;}
+    40% {left:500px; top:200px;}
+    60% {left:750px; top:190px;}
+    80% {left:1000px; top:200px;}
+    100% {left:1100px; top:190px; transform:scaleX(-1);}
+}
+#ca3{
+    left:50px; top:500px;
+    position: absolute;
+    animation-name: Ca3;
+    animation-duration: 15s;
+    animation-timing-function: linear;
+    animation-iteration-count: ifinite;
+    animation-play-state: running;
+}
+@keyframes Ca3{
+    0% {left:50px; top:500px;}
+    20% {left:250px; top:500px;}
+    40% {left:500px; top:500px;}
+    60% {left:750px; top:500px;}
+    80% {left:1000px; top:500px;}
+    100% {left:1100px; top:500px; transform:scaleX(-1);}
+}
+#rua{
+    left:50px; top:400px;
+    position: absolute;
+    animation-name: Rua;
+    animation-duration: 20s;
+    animation-timing-function: linear;
+    animation-iteration-count: ifinite;
+    animation-play-state: running;
+}
+@keyframes Rua{
+    0% {left:50px; top:400px;}
+    15% {left:250px; top:370px;}
+    30% {left:350px; top:350px;}
+    50% {left:650px; top:370px;}
+    67% {left:1000px; top:350px;}
+    80% {left:1100px; top:400px;}
+    100% {left:1150px; top:390px; transform:scaleX(-1);}
+}
+#ca4{
+    left:50px; top:100px;
+    position: absolute;
+    animation-name: Ca4;
+    animation-duration: 10s;
+    animation-timing-function: linear;
+    animation-iteration-count: ifinite;
+    animation-play-state: running;
+}
+@keyframes Ca4{
+    0% {left:50px; top:100px;}
+    20% {left:250px; top:90px;}
+    40% {left:500px; top:100px;}
+    60% {left:750px; top:90px;}
+    80% {left:1000px; top:100px;}
+    100% {left:1100px; top:90px; transform:scaleX(-1);}
+}
+#ca5{
+    left:100px; top:150px;
+    position: absolute;
+    animation-name: Ca5;
+    animation-duration: 10s;
+    animation-timing-function: linear;
+    animation-iteration-count: ifinite;
+    animation-play-state: running;
+}
+@keyframes Ca5{
+    0% {left:100px; top:150px;}
+    20% {left:300px; top:150px;}
+    40% {left:550px; top:140px;}
+    60% {left:800px; top:150px;}
+    100% {left:1100px; top:140px;}
+    100% {left:1100px; top:140px; transform:scaleX(-1);}
+}
+#ca6{
+    left:200px; top:300px;
+    position: absolute;
+    animation-name: Ca6;
+    animation-duration: 9s;
+    animation-timing-function: linear;
+    animation-iteration-count: ifinite;
+    animation-play-state: running;
+}
+@keyframes Ca6{
+    0% {left:200px; top:300px;}
+    20% {left:350px; top:350px;}
+    40% {left:650px; top:300px;}
+    50% {left:650px; top:50px;}
+    60% {left:650px; top:100px;}
+    80% {left:550px; top:200px;}
+    100% {left:100px; top:250px; transform:scaleX(-1);}
+}
+#ca7{
+    left:50px; top:10px;
+    position: absolute;
+    animation-name: Ca7;
+    animation-duration: 10s;
+    animation-timing-function: linear;
+    animation-iteration-count: ifinite;
+    animation-play-state: running;
+}
+@keyframes Ca7{
+    0% {left:50px; top:10px;}
+    20% {left:200px; top:5px;}
+    40% {left:400px; top:20px;}
+    50% {left:600px; top:5px;}
+    60% {left:800px; top:20px;}
+    80% {left:1000px; top:5px;}
+    100% {left:1100px; top:20px; transform:scaleX(-1);}
+}

@@ -1,0 +1,22 @@
+ .tag-fill{
+    background-image: radial-gradient(circle farthest-side, #fceabb, #f8b500);
+}
+.tag-fill2{
+    background-image: linear-gradient(to right, rgb(242, 112, 156), rgb(255, 148, 114));
+}
+.tag-fill3{
+    background-image: linear-gradient( 95.2deg, rgba(173,252,234,1) 26.8%, rgba(192,229,246,1) 64% );
+}
+.tag-fill0{
+    background-image: linear-gradient(to right, #8e2de2, #4a00e0);
+}
+.tag-fill4{
+
+    background-image: linear-gradient(to right, #00b09b, #96c93d);
+}
+.img_container{
+    width: 60px;
+    border-radius: 50%;
+    position: absolute;
+    top: 25px;
+}
